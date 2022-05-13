@@ -52,9 +52,6 @@ public class Directory {
 	    }
 	    
 	    
-	    public void mergeSort() {
-	    	
-	    }
 	    
 
 }

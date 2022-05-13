@@ -65,15 +65,7 @@ public class FileOptionsScreen  implements Screen {
                 this.Show();
                 break;
             
-                /*
-            case 4: // Return to Menu
-            	
-            	ScreenService.setCurrentScreen(ScreenService.WelcomeScreen);
-                ScreenService.getCurrentScreen().Show();
-                ScreenService.getCurrentScreen().GetUserInput();
-                
-                break;
-                */
+
             default:
             	System.out.println("---------------------------");
                 System.out.println("Invalid Option");
